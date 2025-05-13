@@ -1,14 +1,9 @@
 import { Link } from 'react-router-dom';
 import Header from './header';
 
-// Dummy oppskrifter
-const oppskrifter = [
-    { id: 1, navn: 'Pasta Carbonara', beskrivelse: 'En klassisk italiensk rett med bacon og pasta.' },
-    { id: 2, navn: 'Taco', beskrivelse: 'Meksikansk mat med kjøtt, salat og salsa.' },
-    { id: 3, navn: 'Kylling Curry', beskrivelse: 'En krydret og smakfull indisk curry.' }
-  ];
 
-  function Forside() {
+
+  function Forside({ oppskrifter }) {
     return (
         <>
         <Header />

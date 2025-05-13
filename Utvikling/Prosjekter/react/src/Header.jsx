@@ -1,4 +1,5 @@
 import { useState } from 'react'
+import { Link } from 'react-router-dom';
 import "./Header.css"
 
 
@@ -12,9 +13,9 @@ function Header() {
         <h2>Verdens største database av norske oppskrifter</h2>
         <nav>
           <ul className="nav-list">
-            <li><a href="/">Hjem&nbsp;&nbsp;</a></li>
-            <li><a href="/oppskrifter">Oppskrifter&nbsp;&nbsp;</a></li>
-            <li><a href="/om-oss">Om oss&nbsp;&nbsp;</a></li>
+            <li><Link to="/">Hjem&nbsp;&nbsp;</Link></li>
+            <li><Link to="/ny-oppskrift">Ny oppskrift&nbsp;&nbsp;</Link></li>
+            <li><Link to="/om-oss">Om oss&nbsp;&nbsp;</Link></li>
 
           </ul>
         </nav>
