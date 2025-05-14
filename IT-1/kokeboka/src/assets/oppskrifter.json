@@ -1,0 +1,224 @@
+[
+  {
+    "id": 1,
+    "navn": "Spaghetti Bolognese",
+    "beskrivelse": "En klassisk italiensk pastarett med kjøttsaus.",
+    "ingredienser": [
+      "400g spaghetti",
+      "400g kjøttdeig",
+      "1 løk",
+      "2 fedd hvitløk",
+      "1 boks hakkede tomater",
+      "2 ss tomatpuré",
+      "1 ts oregano",
+      "Salt og pepper",
+      "Olivenolje"
+    ],
+    "fremgangsmåte": [
+      "Kok spaghetti etter anvisning på pakken.",
+      "Stek løk og hvitløk i olivenolje til myk.",
+      "Tilsett kjøttdeig og brun den.",
+      "Ha i tomatpuré, hakkede tomater og oregano.",
+      "La sausen småkoke i 15 minutter.",
+      "Smak til med salt og pepper.",
+      "Server kjøttsausen over spaghettien."
+    ]
+  },
+  {
+    "id": 2,
+    "navn": "Kylling Tikka Masala",
+    "beskrivelse": "En indisk-inspirert rett med kremet tomatsaus og kylling.",
+    "ingredienser": [
+      "500g kyllingfilet",
+      "2 dl yoghurt naturell",
+      "2 ss tikka masala-paste",
+      "1 løk",
+      "2 fedd hvitløk",
+      "1 boks hakkede tomater",
+      "1 dl fløte",
+      "Salt og pepper",
+      "Olje til steking"
+    ],
+    "fremgangsmåte": [
+      "Mariner kyllingen i yoghurt og tikka masala-paste i minst 30 minutter.",
+      "Stek løk og hvitløk i olje til myk.",
+      "Tilsett kyllingen og stek til gjennomstekt.",
+      "Ha i hakkede tomater og la småkoke i 10 minutter.",
+      "Rør inn fløte og smak til med salt og pepper.",
+      "Server med ris."
+    ]
+  },
+  {
+    "id": 3,
+    "navn": "Fiskegrateng",
+    "beskrivelse": "En tradisjonell norsk fiskegrateng med makaroni og hvit saus.",
+    "ingredienser": [
+      "400g hvit fisk",
+      "2 dl makaroni",
+      "2 ss smør",
+      "2 ss hvetemel",
+      "4 dl melk",
+      "2 egg",
+      "1 dl brødrasp",
+      "Salt og pepper"
+    ],
+    "fremgangsmåte": [
+      "Kok makaroni etter anvisning på pakken.",
+      "Lag hvit saus av smør, mel og melk.",
+      "Bland inn fisk, makaroni og eggeplommer.",
+      "Stivpisk eggehviter og vend inn.",
+      "Ha blandingen i en ildfast form og strø over brødrasp.",
+      "Stek på 200°C i ca. 30 minutter."
+    ]
+  },
+  {
+    "id": 4,
+    "navn": "Vegetarisk Chili",
+    "beskrivelse": "En smakfull chili uten kjøtt, med bønner og grønnsaker.",
+    "ingredienser": [
+      "1 løk",
+      "2 fedd hvitløk",
+      "1 rød paprika",
+      "1 gulrot",
+      "1 boks kidneybønner",
+      "1 boks hakkede tomater",
+      "1 ts chilipulver",
+      "1 ts spisskummen",
+      "Salt og pepper",
+      "Olje til steking"
+    ],
+    "fremgangsmåte": [
+      "Stek løk, hvitløk, paprika og gulrot i olje.",
+      "Tilsett krydder og rør godt.",
+      "Ha i bønner og hakkede tomater.",
+      "La småkoke i 20 minutter.",
+      "Smak til med salt og pepper.",
+      "Server med ris eller brød."
+    ]
+  },
+  {
+    "id": 5,
+    "navn": "Pannekaker",
+    "beskrivelse": "Tynne, klassiske pannekaker som kan serveres med syltetøy eller sukker.",
+    "ingredienser": [
+      "3 egg",
+      "5 dl melk",
+      "2,5 dl hvetemel",
+      "0,5 ts salt",
+      "2 ss smør"
+    ],
+    "fremgangsmåte": [
+      "Visp sammen egg, melk, mel og salt til en glatt røre.",
+      "La røren svelle i 15 minutter.",
+      "Stek tynne pannekaker i smør på middels varme.",
+      "Server med ønsket tilbehør."
+    ]
+  },
+  {
+    "id": 6,
+    "navn": "Lasagne",
+    "beskrivelse": "En italiensk ovnsrett med lag av pasta, kjøttsaus og ostesaus.",
+    "ingredienser": [
+      "9 lasagneplater",
+      "400g kjøttdeig",
+      "1 løk",
+      "2 fedd hvitløk",
+      "1 boks hakkede tomater",
+      "2 ss tomatpuré",
+      "3 ss smør",
+      "3 ss hvetemel",
+      "5 dl melk",
+      "2 dl revet ost",
+      "Salt og pepper"
+    ],
+    "fremgangsmåte": [
+      "Stek løk, hvitløk og kjøttdeig.",
+      "Tilsett tomatpuré og hakkede tomater, la småkoke.",
+      "Lag ostesaus av smør, mel, melk og ost.",
+      "Legg lagvis kjøttsaus, lasagneplater og ostesaus i en form.",
+      "Stek på 200°C i 30-40 minutter."
+    ]
+  },
+  {
+    "id": 7,
+    "navn": "Tomatsuppe",
+    "beskrivelse": "En enkel og god hjemmelaget tomatsuppe.",
+    "ingredienser": [
+      "1 løk",
+      "2 fedd hvitløk",
+      "2 ss tomatpuré",
+      "1 boks hakkede tomater",
+      "5 dl grønnsakskraft",
+      "1 ts sukker",
+      "Salt og pepper",
+      "Olje til steking"
+    ],
+    "fremgangsmåte": [
+      "Stek løk og hvitløk i olje.",
+      "Tilsett tomatpuré og la surre et minutt.",
+      "Ha i hakkede tomater og grønnsakskraft.",
+      "La suppen småkoke i 15 minutter.",
+      "Kjør suppen glatt med stavmikser.",
+      "Smak til med sukker, salt og pepper."
+    ]
+  },
+  {
+    "id": 8,
+    "navn": "Taco",
+    "beskrivelse": "En populær meksikansk rett med krydret kjøttdeig og tilbehør.",
+    "ingredienser": [
+      "400g kjøttdeig",
+      "1 pose tacokrydder",
+      "8 tacoskjell",
+      "1 salat",
+      "2 tomater",
+      "1 løk",
+      "1 boks mais",
+      "Revet ost",
+      "Rømme"
+    ],
+    "fremgangsmåte": [
+      "Stek kjøttdeig og tilsett tacokrydder.",
+      "Varm tacoskjell etter anvisning på pakken.",
+      "Fyll skjellene med kjøtt, salat, tomat, løk, mais og ost.",
+      "Server med rømme."
+    ]
+  },
+  {
+    "id": 9,
+    "navn": "Frokostsmoothie",
+    "beskrivelse": "En frisk og sunn smoothie til frokost.",
+    "ingredienser": [
+      "1 banan",
+      "2 dl frosne bær",
+      "2 dl yoghurt",
+      "1 dl appelsinjuice"
+    ],
+    "fremgangsmåte": [
+      "Ha alle ingrediensene i en blender.",
+      "Kjør til en jevn smoothie.",
+      "Server straks."
+    ]
+  },
+  {
+    "id": 10,
+    "navn": "Omelett",
+    "beskrivelse": "En enkel omelett med ost og skinke.",
+    "ingredienser": [
+      "3 egg",
+      "2 ss melk",
+      "1/2 ts salt",
+      "1/4 ts pepper",
+      "50g skinke",
+      "50g revet ost",
+      "Smør til steking"
+    ],
+    "fremgangsmåte": [
+      "Visp sammen egg, melk, salt og pepper.",
+      "Hell røren i en varm stekepanne med smør.",
+      "Strø over skinke og ost.",
+      "Stek til omeletten er fast.",
+      "Brett omeletten og server."
+    ]
+  }
+]
